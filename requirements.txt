@@ -8,3 +8,4 @@ bs4
 flask
 streamlit
 cryptography
+opencv
